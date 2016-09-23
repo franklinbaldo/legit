@@ -4,7 +4,7 @@
 O objetivo deste projeto é criar parâmetros acompanhar alterações em textos legais utilizando softwares de controle de versão (como o git).
 
 ### Objetivo extra
-Fazer pelo menos uma casa legislativa (câmara municipal, assembleia estadual ou congresso federal) a adotar os parâmetros criados para controlar a criação de novas leis.
+Fazer pelo menos uma casa legislativa (câmara municipal, assembleia estadual ou congresso federal) a adotar o *Legit* para controlar a criação de novas leis.
 
 ### Exemplo
 
