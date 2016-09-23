@@ -3,6 +3,9 @@
 ## Objetivo
 O objetivo deste projeto é criar parâmetros acompanhar alterações em textos legais utilizando softwares de controle de versão (como o git).
 
+### Objetivo extra
+Fazer pelo menos uma casa legislativa (câmara municipal, assembleia estadual ou congresso federal) a adotar os parâmetros criados para controlar a criação de novas leis.
+
 ### Exemplo
 
 Retirado do comentario de nathanhammond em https://news.ycombinator.com/item?id=3967921:
